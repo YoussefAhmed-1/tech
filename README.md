@@ -22,6 +22,14 @@
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge\&logo=duckdb\&logoColor=black)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge\&logo=clickhouse\&logoColor=black)
 
+### 📊 Data Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-EA4B4B?style=for-the-badge\&logo=python\&logoColor=white)
+![Altair](https://img.shields.io/badge/Altair-1F77B4?style=for-the-badge\&logo=altair\&logoColor=white)
+![Pygal](https://img.shields.io/badge/Pygal-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### 📊 Business Intelligence & Visualization
 
