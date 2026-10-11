@@ -10,7 +10,18 @@
 ### 🗄️ Databases & Querying
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=for-the-badge\&logo=ibm\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge\&logo=amazonredshift\&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge\&logo=duckdb\&logoColor=black)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge\&logo=clickhouse\&logoColor=black)
+
 
 ### 📊 Business Intelligence & Visualization
 
